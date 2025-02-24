@@ -1,5 +1,3 @@
-
-
 public class moveZeroes {
     public void display(int[] nums){
         for(int i=0;i< nums.length;i++){

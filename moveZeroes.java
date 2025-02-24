@@ -9,7 +9,7 @@ public class moveZeroes {
     }
     public void moveZeroes1(int[] nums) {
         int count = 0;
-        for(int i=0; i<nums.length; i++){
+            for(int i=0; i<nums.length; i++){
             if(nums[i]!=0){
                 nums[count] = nums[i];
                 count++;
